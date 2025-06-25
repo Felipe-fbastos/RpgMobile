@@ -23,6 +23,9 @@ Simulação de combate baseada nas armas equipadas por cada personagem.
 Conflito entre personagens utilizando suas habilidades especiais e poderes mágicos.
 ![Disputa de Habilidades](https://github.com/user-attachments/assets/5648c410-7bcf-4572-b956-5292168af324)
 
+### 🌀 Disputa Geral
+![Disputa de Geral](https://github.com/user-attachments/assets/869cf924-6a5b-4adc-b836-e5996142a01c)
+
 
 ## 👥 Desenvolvedores
 
